@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "compacktpub.phonegaphotshot.ch05"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "compacktpub.phonegaphotshot.ch05"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "compacktpub.phonegaphotshot.ch05"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "compacktpub.phonegaphotshot.ch05"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "compacktpub.phonegaphotshot.ch05"
+        }
+    },
+    "dependent_plugins": {}
+}
